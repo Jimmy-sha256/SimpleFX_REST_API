@@ -193,7 +193,7 @@ client.delete_order(order_id)
 
 ![](images/delete_order.png)
 
-<a name="close_postion"/>
+<a name="close_position"/>
 
 #### 13. Close Position
 
