@@ -210,7 +210,7 @@ client.close_position(order_id, vol)
 
 ![](images/close_position.png)
 
-<a name="get_postions"/>
+<a name="get_positions_pending_orders"/>
 
 #### 14. Get Postions / Pending Orders
 
