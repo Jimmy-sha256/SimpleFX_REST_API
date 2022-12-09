@@ -149,8 +149,8 @@ class Simple_FX_Client(object):
         url = self.url + '/api/v3/trading/orders/market'
         
         options = {
-                "Login":572389,
-                "Reality":"DEMO",
+                "Login":self.account,
+                "Reality":self.reality,
                 "Id":order_id,
                 "TakeProfit":tp
                 }
